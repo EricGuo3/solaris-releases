@@ -1,8 +1,11 @@
 # Solaris
 
-Solaris 是一个以项目为中心的本地工作台。
+把多个项目，收束成今天真正要推进的下一步
 
-本仓库仅用于提供 Solaris 官方安装包和发布说明，不包含源代码。
+Solaris 是一款本地优先的 macOS 个人项目指挥台。
+它帮助你看清每个项目的当前状态、唯一下一步，以及今天真正要处理的工作。
+
+[下载链接](https://github.com/EricGuo3/solaris-releases/releases/latest/download/Solaris_0.9.11_arm64.dmg)
 
 ## 快速开始
 
