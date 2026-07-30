@@ -20,8 +20,6 @@ Solaris v0.9.11
 - macOS 15.7 或更高版本
 - Apple Silicon（arm64）
 
-目前不支持 Intel Mac。
-
 ## 下载与安装
 
 请前往 [Releases 页面](https://github.com/EricGuo3/solaris-releases/releases) 下载：
