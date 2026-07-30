@@ -4,6 +4,10 @@ Solaris 是一款本地优先的轻量项目管理 macOS 应用。
 
 本仓库仅用于提供 Solaris 官方安装包和发布说明，不包含源代码。
 
+## 快速开始
+
+首次使用 Solaris，或希望了解推荐的项目管理方式，请阅读 [Solaris 用户指南](USER_GUIDE.md)。
+
 ## 当前版本
 
 Solaris v0.9.11
