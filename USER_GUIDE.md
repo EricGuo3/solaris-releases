@@ -1,4 +1,4 @@
-# Solaris 用户指南 v1.0
+# Solaris 用户指南
 
 适用软件版本：Solaris v0.9.11
 
