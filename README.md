@@ -21,7 +21,7 @@ Solaris v0.9.11
 
 ## 下载与安装
 
-正式发布后，请前往本仓库的 [Releases 页面](https://github.com/EricGuo3/solaris-releases/releases) 下载：
+请前往 [Releases 页面](https://github.com/EricGuo3/solaris-releases/releases) 下载：
 
 `Solaris_0.9.11_arm64.dmg`
 
