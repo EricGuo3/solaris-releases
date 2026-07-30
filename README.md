@@ -1,6 +1,6 @@
 # Solaris
 
-Solaris 是一款本地优先的轻量项目管理 macOS 应用。
+Solaris 是一个以项目为中心的本地工作台。
 
 本仓库仅用于提供 Solaris 官方安装包和发布说明，不包含源代码。
 
