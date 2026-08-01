@@ -13,6 +13,8 @@ Solaris v1.0.0 是首个正式 1.0 版本，继续坚持本地优先、一个项
 - 改进 macOS 侧栏：导航区域、底部设置区与原生磨砂效果在浅色、深色及跟随系统主题下保持一致。
 - 加强可靠性：补强周期投影故障隔离、工作区安全退出、备份菜单与 Markdown 渲染处理。
 
+![Solaris 成就看板展示完成工作、推进项目、达成节点和成果节奏](https://raw.githubusercontent.com/EricGuo3/solaris-releases/main/assets/readme/feature-achievement.png)
+
 ## 系统要求
 
 - macOS 15.7 或更高版本
