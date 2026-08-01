@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="assets/readme/solaris-icon.png" width="96" height="96" alt="Solaris 应用图标">
 </p>
 
 <h1 align="center">Solaris</h1>
