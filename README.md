@@ -58,13 +58,13 @@ Solaris 围绕一个简单原则工作：**每个进行中的项目，始终只�
 
 ![Solaris 今日页面展示正在推进、今日承诺和今日安排](assets/readme/feature-today.png)
 
-![Solaris 日期看板在同一月视图中展示任务、日程和里程碑](assets/readme/feature-calendar.png)
+![Solaris 日期看板在同一月视图中展示任务、事件和里程碑](assets/readme/feature-calendar.png)
 
 ![Solaris 成就看板展示完成工作、推进项目、达成节点和成果节奏](assets/readme/feature-achievement.png)
 
 ## 所有工作，都能回到项目
 
-任务、日程、里程碑、项目记录、备忘和重要文档都可以围绕项目整理：
+任务、事件、里程碑、记录、备忘和文档都可以围绕项目整理：
 
 - 临时事项先放进收件箱，不打断正在进行的工作；
 - 在“今日”中安排真正准备完成的事项；
@@ -72,9 +72,19 @@ Solaris 围绕一个简单原则工作：**每个进行中的项目，始终只�
 - 把方案、决定、过程结论和重要文件留在对应项目；
 - 项目完成后归档，历史任务与成果仍可查找和回顾。
 
+## v1.0.0 新增
+
+- **事件记录**：为一次事件建立 Markdown 记录，整理事实、决定和后续事项；
+- **全局搜索**：按 `⌘K` 查找项目、任务、事件、记录、备忘和文档，并直接打开结果；
+- **周期任务与事件**：支持常用重复规则、单次调整和从本次起调整，项目内按系列折叠展示高频事件；
+- **更好的大屏体验**：全屏和高分辨率窗口下充分利用可用空间；
+- **一致的界面反馈**：项目详情、日期看板、侧栏与浅色／深色主题的布局和交互更统一。
+
+完整变化请查看 [Solaris v1.0.0 发布说明](RELEASE_NOTES_v1.0.0.md)。
+
 ## 本地优先，数据由你掌控
 
-Solaris v0.9.11：
+Solaris v1.0.0：
 
 - 无需注册账户；
 - 不提供云同步；
@@ -94,21 +104,21 @@ Solaris 适合：
 
 - 同时推进多个个人或工作项目；
 - 经常面对很多事项，却不确定此刻先做什么；
-- 希望任务、日程、记录和资料围绕项目集中整理；
+- 希望任务、事件、记录和资料围绕项目集中整理；
 - 重视本地保存和数据隐私的 macOS 用户。
 
 当前版本面向单机个人项目管理，界面语言为简体中文；不提供多人实时协作、跨设备云同步、Windows、Linux 或 Intel Mac 版本。
 
 ## 下载与安装
 
-当前正式版本：**Solaris v0.9.11**
+当前正式版本：**Solaris v1.0.0**
 
 系统要求：
 
 - macOS 15.7 或更高版本；
 - Apple Silicon（arm64）。
 
-[前往最新版下载页面](https://github.com/EricGuo3/solaris-releases/releases/latest)，下载 `Solaris_0.9.11_arm64.dmg`：
+[前往最新版下载页面](https://github.com/EricGuo3/solaris-releases/releases/latest)，下载 `Solaris_1.0.0_arm64.dmg`：
 
 1. 打开下载的 DMG；
 2. 将 Solaris 拖入“应用程序”文件夹；
@@ -119,16 +129,16 @@ Solaris 适合：
 <details>
 <summary>验证 DMG 的 SHA-256</summary>
 
-Solaris v0.9.11 DMG：
+Solaris v1.0.0 DMG：
 
 ```text
-96640067b948ba5e68a1314cb484a04fbffe459feeb41c6e54d7cbce7059acc3
+de06aae77c8e47d2e2e66ebbe401455436119364a342c3c1bfbd8fb9a5cc51b2
 ```
 
 下载后在终端执行：
 
 ```bash
-shasum -a 256 Solaris_0.9.11_arm64.dmg
+shasum -a 256 Solaris_1.0.0_arm64.dmg
 ```
 
 输出应与上面的 SHA-256 完全一致。
@@ -151,4 +161,3 @@ Solaris 允许个人和组织免费下载并在个人、工作及商业场景中
 Solaris 不是开源软件。本仓库只提供正式安装包、用户文档和反馈入口，不提供应用源代码，也不授权第三方转售、公开重新分发或发布修改版本。
 
 完整条款请阅读 [Solaris 软件使用许可](LICENSE.md)。
-
