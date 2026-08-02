@@ -109,7 +109,7 @@ Solaris 适合：
 系统要求：
 
 - macOS 15.7 或更高版本；
-- Apple Silicon处理器。
+- Apple Silicon 处理器。
 
 [前往最新版下载页面](https://github.com/EricGuo3/solaris-releases/releases/latest)，下载 `Solaris v1.0.0`：
 
@@ -145,7 +145,6 @@ shasum -a 256 Solaris_1.0.0_arm64.dmg
 - 有使用场景或改进想法：[提出功能建议](https://github.com/EricGuo3/solaris-releases/issues/new?template=feature_request.yml)；
 - 下载历史版本：查看 [Releases](https://github.com/EricGuo3/solaris-releases/releases)。
 
-GitHub Issues 是公开页面。请勿提交工作区文件、诊断日志、个人信息、公司机密、客户数据或其他敏感内容。
 
 ## 免费使用，但不是开源软件
 
