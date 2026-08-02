@@ -109,7 +109,7 @@ Solaris 适合：
 系统要求：
 
 - macOS 15.7 或更高版本；
-- Apple Silicon（arm64）。
+- Apple Silicon处理器。
 
 [前往最新版下载页面](https://github.com/EricGuo3/solaris-releases/releases/latest)，下载 `Solaris v1.0.0`：
 
