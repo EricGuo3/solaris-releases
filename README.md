@@ -112,7 +112,7 @@ Solaris 适合：
 - macOS 15.7 或更高版本；
 - Apple Silicon（arm64）。
 
-[前往最新版下载页面](https://github.com/EricGuo3/solaris-releases/releases/latest)，下载 `Solaris_1.0.0_arm64.dmg`：
+[前往最新版下载页面](https://github.com/EricGuo3/solaris-releases/releases/latest)，下载 `**Solaris v1.0.0**`：
 
 1. 打开下载的 DMG；
 2. 将 Solaris 拖入“应用程序”文件夹；
