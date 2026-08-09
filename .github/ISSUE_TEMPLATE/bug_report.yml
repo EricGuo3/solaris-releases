@@ -14,7 +14,7 @@ body:
     attributes:
       label: Solaris 版本
       description: 可在应用信息或下载页面查看
-      placeholder: 例如 v1.0.0
+      placeholder: 例如 v1.1.0
     validations:
       required: true
 
