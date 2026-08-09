@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/EricGuo3/solaris-releases/releases/latest"><strong>下载最新版</strong></a>
   ·
-  <a href="USER_GUIDE.md">查看用户指南</a>
+  <a href="docs/USER_GUIDE.md">查看用户指南</a>
   ·
   <a href="https://github.com/EricGuo3/solaris-releases/issues/new/choose">反馈与建议</a>
 </p>
@@ -78,7 +78,7 @@ Solaris 围绕一个简单原则工作：**每个进行中的项目，始终只�
 - **记录大纲**：项目记录与事件记录可按一至三级标题显示大纲，并在预览、编辑和原文模式中快速定位；
 - **一致的界面交互**：常用弹层支持点击遮罩或按 `Esc` 关闭，项目进度、周期设置和筛选控件更加稳定清晰。
 
-完整变化请查看 [Solaris v1.1.0 发布说明](RELEASE_NOTES_v1.1.0.md)。
+完整变化请查看 [Solaris v1.1.0 发布说明](docs/releases/RELEASE_NOTES_v1.1.0.md)。
 
 ## 本地优先，数据由你掌控
 
@@ -90,7 +90,7 @@ Solaris 围绕一个简单原则工作：**每个进行中的项目，始终只�
 - 支持应用内部备份和工作区 ZIP 导出。
 
 
-完整说明请阅读 [Solaris 隐私说明](PRIVACY.md)。
+完整说明请阅读 [Solaris 隐私说明](docs/PRIVACY.md)。
 
 ## 适合什么样的工作
 
@@ -140,7 +140,7 @@ shasum -a 256 Solaris_1.1.0_arm64.dmg
 
 ## 使用帮助与反馈
 
-- 第一次使用：阅读 [Solaris 用户指南](USER_GUIDE.md)；
+- 第一次使用：阅读 [Solaris 用户指南](docs/USER_GUIDE.md)；
 - 发现可复现问题：[提交 Bug 反馈](https://github.com/EricGuo3/solaris-releases/issues/new?template=bug_report.yml)；
 - 有使用场景或改进想法：[提出功能建议](https://github.com/EricGuo3/solaris-releases/issues/new?template=feature_request.yml)；
 - 下载历史版本：查看 [Releases](https://github.com/EricGuo3/solaris-releases/releases)。
