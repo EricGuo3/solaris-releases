@@ -1,6 +1,6 @@
 # Solaris 用户指南
 
-适用软件版本：Solaris v1.2.5
+适用软件版本：Solaris v1.3.1
 
 Solaris 是一个以项目为中心的本地工作台。
 

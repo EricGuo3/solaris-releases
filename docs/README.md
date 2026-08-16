@@ -2,6 +2,7 @@
 
 - [用户指南](USER_GUIDE.md)
 - [隐私说明](PRIVACY.md)
+- [Solaris v1.3.1 发布说明](releases/RELEASE_NOTES_v1.3.1.md)
 - [Solaris v1.2.5 发布说明](releases/RELEASE_NOTES_v1.2.5.md)
 - [Solaris v1.1.0 发布说明](releases/RELEASE_NOTES_v1.1.0.md)
 - [Solaris v1.0.0 发布说明](releases/RELEASE_NOTES_v1.0.0.md)
